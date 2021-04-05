@@ -33,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
-ManagedProjectGUID=
+ManagedProjectGUID=84F7C451-7F59-470D-B2DD-4B85F3583A5C
+VaultGUID=6D890F91-BFF9-4D09-86C2-BF8642FB4353
+ReleaseVaultName=0000001_SVN_Migration
+ItemGUID=84F7C451-7F59-470D-B2DD-4B85F3583A5C
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=6D890F91-BFF9-4D09-86C2-BF8642FB4353&ItemGUID=E799078C-B8A6-4766-BCD5-18E5D55F4D1C&RevisionGUID=B9B37D05-874D-4FC3-8171-DDE46466E794&"MainFilename=PCB_Project1.PrjPCB"
 IncludeDesignInRelease=0
 
